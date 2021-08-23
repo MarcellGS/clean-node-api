@@ -1,0 +1,3 @@
+{
+  "*.ts": ["prettier 'src/**' --fix", "git add"]
+}
