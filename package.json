@@ -4,7 +4,8 @@
   "description": "Estudo de api com node clean-architecture TDD SOLID",
   "main": "index.js",
   "scripts": {
-    "test": "jest"
+    "test": "jest",
+    "test:staged": "jest"
   },
   "author": "",
   "license": "ISC",
