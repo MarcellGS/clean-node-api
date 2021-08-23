@@ -4,15 +4,18 @@
   "description": "Estudo de api com node clean-architecture TDD SOLID",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "jest"
   },
   "author": "",
   "license": "ISC",
   "devDependencies": {
+    "@types/jest": "^27.0.1",
     "@types/node": "^16.7.1",
     "git-commit-msg-linter": "^3.2.8",
     "husky": "^7.0.1",
+    "jest": "^27.0.6",
     "lint-staged": "^11.1.2",
+    "ts-jest": "^27.0.5",
     "typescript": "^4.3.5"
   }
 }
